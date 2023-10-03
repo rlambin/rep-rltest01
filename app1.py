@@ -1,3 +1,4 @@
+#!/opt/app-root/bin/python3
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)
